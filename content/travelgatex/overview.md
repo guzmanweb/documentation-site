@@ -71,7 +71,7 @@ There are several ways you can learn more about the full capabilities of our Tra
 Check out our [GraphQL Playground](/getting-started/playground/) to get started with making your first query and to work thropugh other query examples.
 
 {{% alert theme="warning" %}}Keep in mind that it's important to use the correct Headers. 
-If you wish to use test headers, insert `"Authorization":"Apikey q8ggxpoVDW76Kw918hwnnRvxlZmAP2QZ"`
+If you wish to use test headers, insert `"Authorization":"Apikey APIKEY"`
 {{% /alert %}}
 
 You can easily **share your Queries with others by generating a link** using the _share_ button available in the API Playground. This share function works as a Pastebin for your GraphQL query and includes the context (endpoint, HTTP headers, open tabs, etc) so you can share exactly what your Playground query setup looks like.
