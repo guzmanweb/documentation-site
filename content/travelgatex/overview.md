@@ -48,7 +48,7 @@ To query GraphQL using [curl](https://curl.haxx.se), make a POST request with a 
 curl -X\
    POST\
    -H "Content-Type: application/json" \
-   -H "Authorization: Apikey q8ggxpoVDW76Kw918hwnnRvxlZmAP2QZ"  \
+   -H "Authorization: Apikey APIKEY"  \
    --data '{"query":"{hotelX{searchStatusService{code description}}}"}' \
    --compressed \
    https://api.travelgatex.com
